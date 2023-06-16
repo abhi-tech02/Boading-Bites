@@ -1,0 +1,161 @@
+body {
+    background-color: rgb(234, 245, 119);
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    border: #008CBA;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+input,
+textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+
+button {
+    background-color: #00779f;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #035c76;
+}
+
+#carouselExampleIndicators {
+    width: 100%;
+    max-width: 70rem;
+    height: 30rem;
+    margin: 2rem auto;
+}
+
+#carouselExampleIndicators img {
+    height: 30rem;
+}
+
+.footer {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/bg.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#missionh {
+    justify-content: center;
+    text-align: center;
+    color: brown;
+    background-color: bisque;
+}
+
+#ab {
+    margin-left: 50px;
+    text-align: justify;
+    justify-content: center;
+}
+
+#tiffor {
+    display: inline-block;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#carouselExampleIndicators {
+    width: 100%;
+    max-width: 50rem;
+    height: 30rem;
+    margin: 2rem auto;
+}
+
+#hel {
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+#carouselExampleIndicators img {
+    height: 30rem;
+    object-fit: fit;
+}
+
+.btn-book-now {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-book-now:hover {
+    background-color: #0056b3;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#formdiv {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    background-color: rgb(175, 236, 235);
+}
+
+select {
+    background-color: white;
+}
+
+h4 {
+    /* background-color: Black; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+/* input[type='checkbox'] {
+    width: 20px;
+    margin: 10px;
+} */
+
+
+/*
+input[type='checkbox']+label {
+    width: 50px;
+    display: inline-flex;
+}
+*/
+
+
+/* 
+.checkcontent {
+    display: inline-flex;
+}
+
+.checkradio-label {
+    margin: 10px;
+} */
